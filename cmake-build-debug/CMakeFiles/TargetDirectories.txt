@@ -1,0 +1,3 @@
+C:/Users/sinap/Documents/Library System App/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sinap/Documents/Library System App/cmake-build-debug/CMakeFiles/Library_System_App.dir
+C:/Users/sinap/Documents/Library System App/cmake-build-debug/CMakeFiles/rebuild_cache.dir

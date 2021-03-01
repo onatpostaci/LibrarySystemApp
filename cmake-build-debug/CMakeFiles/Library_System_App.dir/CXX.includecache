@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sinap/Documents/Library System App/Book.cpp
+Book.h
+C:/Users/sinap/Documents/Library System App/Book.h
+iostream
+-
+
+C:/Users/sinap/Documents/Library System App/Book.h
+string
+-
+
+C:/Users/sinap/Documents/Library System App/LibrarySystem.cpp
+LibrarySystem.h
+C:/Users/sinap/Documents/Library System App/LibrarySystem.h
+iostream
+-
+string
+-
+Student.h
+C:/Users/sinap/Documents/Library System App/Student.h
+
+C:/Users/sinap/Documents/Library System App/LibrarySystem.h
+string
+-
+Student.h
+C:/Users/sinap/Documents/Library System App/Student.h
+
+C:/Users/sinap/Documents/Library System App/Student.cpp
+Student.h
+C:/Users/sinap/Documents/Library System App/Student.h
+iostream
+-
+
+C:/Users/sinap/Documents/Library System App/Student.h
+string
+-
+Book.h
+C:/Users/sinap/Documents/Library System App/Book.h
+
+C:/Users/sinap/Documents/Library System App/main.cpp
+iostream
+-
+LibrarySystem.h
+C:/Users/sinap/Documents/Library System App/LibrarySystem.h
+
